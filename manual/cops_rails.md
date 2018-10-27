@@ -41,6 +41,7 @@ it { is_expected.to have_http_status :error }
 
 Name | Default value | Configurable values
 --- | --- | ---
+VersionAdded | `0.54` | Float
 EnforcedStyle | `symbolic` | `numeric`, `symbolic`
 
 ### References
